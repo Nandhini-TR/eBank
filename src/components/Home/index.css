@@ -1,0 +1,45 @@
+.Home-bg-container {
+  background-color: #152850;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-container {
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.website-logo {
+  height: 40px;
+  width: 80px;
+}
+
+.logout-button {
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+  background: transparent;
+}
+
+.home-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.main-heading {
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.digital-card {
+  height: 400px;
+  width: 650px;
+}
